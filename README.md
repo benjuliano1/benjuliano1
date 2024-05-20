@@ -1,5 +1,5 @@
 # Hello, I'm Ben!
-<a href="https://www.linkedin.com/in/ben-j-juliano/)><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ben-j-juliano/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -47,11 +47,16 @@ As I began my job search after graduating with my MBA I developed a passion for 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.coursera.org/google-certificates/cybersecurity-certificate">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Badge" />
+</a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.securityblue.team/why-btl1/">
+  <img src="https://img.shields.io/badge/Security%20Blue%20Team%20Level%201-000080?&style=for-the-badge&logoColor=white" alt="Security Blue Team Level 1 Badge" />
+</a>
+
 </div>
 
 ## Projects
