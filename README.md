@@ -11,7 +11,7 @@ As I began my job search after graduating with my MBA I developed a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Set Up and Secure Home Cloud Environment          | <a href="https://google.com">Detection Lab</a>|
+|Set Up and Secure Home Cloud Environment          | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>|
 
 ## Tools
 
@@ -46,5 +46,4 @@ As I began my job search after graduating with my MBA I developed a passion for 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>
