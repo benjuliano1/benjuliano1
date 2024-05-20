@@ -5,7 +5,7 @@ I’m an aspiring SOC analyst with an interest in network security. I recently c
 
 ## Objective
 
-As I began my job search after graduating with my MBA I developed a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As I began my job search after graduating with my MBA I developed a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
