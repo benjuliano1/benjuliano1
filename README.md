@@ -11,7 +11,8 @@ As I began my job search after graduating with my MBA I developed a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Set Up and Secure Home Cloud Environment          | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>|
+|Set Up Home Cloud Environment          | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>|
+|Securing A Microsoft Azure Instance | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Building and Monitoring a Honeynet in Microsoft Azure</a>|
 
 ## Tools
 
@@ -31,6 +32,12 @@ As I began my job search after graduating with my MBA I developed a passion for 
 ### Digital Forensics
 <div>
     <img src="https://img.shields.io/badge/Autopsy-8B4513?&style=for-the-badge&logoColor=white" alt="Autopsy Badge" />
+</div>
+
+### Cloud
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge" />
+</a>
 </div>
 
 
