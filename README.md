@@ -12,7 +12,7 @@ As I began my job search after graduating with my MBA I developed a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Set Up Home Cloud Environment          | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>|
-|Securing A Microsoft Azure Instance | <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Building and Monitoring a Honeynet in Microsoft Azure</a>|
+|Securing A Microsoft Azure Instance | <a href="[https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md](https://github.com/benjuliano1/Building-and-Securing-a-Honeynet-in-Microsoft-Azure)">Building and Monitoring a Honeynet in Microsoft Azure</a>|
 
 ## Tools
 
@@ -54,3 +54,4 @@ As I began my job search after graduating with my MBA I developed a passion for 
 
 ## Projects
 - <a href="https://github.com/benjuliano1/Home-Media-Server/blob/main/README.md">Home Media Server</a>
+- <a href="https://github.com/benjuliano1/Building-and-Securing-a-Honeynet-in-Microsoft-Azure">Building and Monitoring a Honeynet in Microsoft Azure</a>
